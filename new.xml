@@ -1,0 +1,10 @@
+<aboutme>
+	<name>Inna Gennadyevna Boikova</name>
+	<age>28</age>
+	<pets>
+	<number>1</number>
+	<kindofpet>dog</kindofpet>
+	<name>Bright</name>
+	</pets>
+	<Salary>400$</Salary>
+</aboutme>
