@@ -77,6 +77,7 @@
 
  16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
  - edit this file
+
 <bugreport>
 	<Identifier>1</Identifier>
   	<Summary>Site layout on the first page is not recommended with layout placement</Summary>
@@ -96,6 +97,7 @@
 	<Priority>low</Priority>
 </bugreport>
 
+		
  17.  Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  - commit changes
 
